@@ -1,0 +1,15 @@
+header {
+    float: left;
+    width: 100%;
+    background: purple;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+header img {
+    float: left;
+    margin-right: 10px;
+}
+header h3 {
+    color: #fff;
+    font-size: 23px;
+}

@@ -1,0 +1,41 @@
+.meme-gen-section {
+    float: left;
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+.top-text {
+    position: absolute;
+    top: 0px;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+}
+.bottom-text {
+    position: relative;
+    top: -78px;
+    color: #fff;
+    width: 100%;
+    text-align: center
+}
+.memm-form {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    float: left;
+    width: 100%;
+}
+.memm-form input[type="text"] {
+    border: 1px solid #ddd;
+    height: 35px;
+    width: 15%;
+    margin-right: 2%;
+    padding-left: 5px;
+}
+.memm-form button {
+    background: purple;
+    color: #fff;
+    height: 35px;
+    border: 0px;
+    cursor: pointer;
+}
